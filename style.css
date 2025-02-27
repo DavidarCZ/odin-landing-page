@@ -189,6 +189,7 @@ body {
 }
 .call-to-action {
     width: 70%;
+    max-width: 600px;
     background-color: #3882F6;
     color: #E5E7EB;
     border-radius: 10px;
