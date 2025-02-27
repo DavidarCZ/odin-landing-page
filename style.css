@@ -18,6 +18,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border-bottom: #040608 1px solid;
 }
 
 .nav-logo {
@@ -60,6 +61,7 @@ body {
     background-color: #1F2937;
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 70px;
     padding: 4em 8em;
 }
