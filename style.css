@@ -74,6 +74,7 @@ body {
 
 .hero .image {
     flex: 1 1 300px;
+    min-width: 250px;
 }
 
 .hero .image img{
@@ -188,7 +189,7 @@ body {
 
 }
 .call-to-action {
-    width: 70%;
+    flex: 1 1 300px;
     max-width: 600px;
     background-color: #3882F6;
     color: #E5E7EB;
@@ -196,6 +197,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
     padding: 20px 100px;
 }
 
